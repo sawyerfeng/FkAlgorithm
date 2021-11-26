@@ -1,0 +1,3 @@
+/Users/pygmalion/Documents/GitHub/FkAlgorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pygmalion/Documents/GitHub/FkAlgorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pygmalion/Documents/GitHub/FkAlgorithm/cmake-build-debug/CMakeFiles/FkAlgorithm.dir
