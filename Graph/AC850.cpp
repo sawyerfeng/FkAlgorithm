@@ -39,8 +39,6 @@ int dijkstra(){
     }
     if(dist[n]==0x3f3f3f3f) return -1;
     return dist[n];
-
-
 }
 int main(){
     cin>>n>>m;
