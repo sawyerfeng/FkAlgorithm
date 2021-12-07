@@ -66,45 +66,60 @@ include CMakeFiles/FkAlgorithm.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/FkAlgorithm.dir/flags.make
 
-CMakeFiles/FkAlgorithm.dir/Undefine/PAT1007.cpp.o: CMakeFiles/FkAlgorithm.dir/flags.make
-CMakeFiles/FkAlgorithm.dir/Undefine/PAT1007.cpp.o: ../Undefine/PAT1007.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/pygmalion/Documents/GitHub/FkAlgorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/FkAlgorithm.dir/Undefine/PAT1007.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FkAlgorithm.dir/Undefine/PAT1007.cpp.o -c /Users/pygmalion/Documents/GitHub/FkAlgorithm/Undefine/PAT1007.cpp
+CMakeFiles/FkAlgorithm.dir/Tanxin/AC907.cpp.o: CMakeFiles/FkAlgorithm.dir/flags.make
+CMakeFiles/FkAlgorithm.dir/Tanxin/AC907.cpp.o: ../Tanxin/AC907.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/pygmalion/Documents/GitHub/FkAlgorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/FkAlgorithm.dir/Tanxin/AC907.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FkAlgorithm.dir/Tanxin/AC907.cpp.o -c /Users/pygmalion/Documents/GitHub/FkAlgorithm/Tanxin/AC907.cpp
 
-CMakeFiles/FkAlgorithm.dir/Undefine/PAT1007.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FkAlgorithm.dir/Undefine/PAT1007.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/pygmalion/Documents/GitHub/FkAlgorithm/Undefine/PAT1007.cpp > CMakeFiles/FkAlgorithm.dir/Undefine/PAT1007.cpp.i
+CMakeFiles/FkAlgorithm.dir/Tanxin/AC907.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FkAlgorithm.dir/Tanxin/AC907.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/pygmalion/Documents/GitHub/FkAlgorithm/Tanxin/AC907.cpp > CMakeFiles/FkAlgorithm.dir/Tanxin/AC907.cpp.i
 
-CMakeFiles/FkAlgorithm.dir/Undefine/PAT1007.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FkAlgorithm.dir/Undefine/PAT1007.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/pygmalion/Documents/GitHub/FkAlgorithm/Undefine/PAT1007.cpp -o CMakeFiles/FkAlgorithm.dir/Undefine/PAT1007.cpp.s
+CMakeFiles/FkAlgorithm.dir/Tanxin/AC907.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FkAlgorithm.dir/Tanxin/AC907.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/pygmalion/Documents/GitHub/FkAlgorithm/Tanxin/AC907.cpp -o CMakeFiles/FkAlgorithm.dir/Tanxin/AC907.cpp.s
 
-CMakeFiles/FkAlgorithm.dir/Undefine/PAT1009.cpp.o: CMakeFiles/FkAlgorithm.dir/flags.make
-CMakeFiles/FkAlgorithm.dir/Undefine/PAT1009.cpp.o: ../Undefine/PAT1009.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/pygmalion/Documents/GitHub/FkAlgorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/FkAlgorithm.dir/Undefine/PAT1009.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FkAlgorithm.dir/Undefine/PAT1009.cpp.o -c /Users/pygmalion/Documents/GitHub/FkAlgorithm/Undefine/PAT1009.cpp
+CMakeFiles/FkAlgorithm.dir/Tanxin/AC148.cpp.o: CMakeFiles/FkAlgorithm.dir/flags.make
+CMakeFiles/FkAlgorithm.dir/Tanxin/AC148.cpp.o: ../Tanxin/AC148.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/pygmalion/Documents/GitHub/FkAlgorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/FkAlgorithm.dir/Tanxin/AC148.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FkAlgorithm.dir/Tanxin/AC148.cpp.o -c /Users/pygmalion/Documents/GitHub/FkAlgorithm/Tanxin/AC148.cpp
 
-CMakeFiles/FkAlgorithm.dir/Undefine/PAT1009.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FkAlgorithm.dir/Undefine/PAT1009.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/pygmalion/Documents/GitHub/FkAlgorithm/Undefine/PAT1009.cpp > CMakeFiles/FkAlgorithm.dir/Undefine/PAT1009.cpp.i
+CMakeFiles/FkAlgorithm.dir/Tanxin/AC148.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FkAlgorithm.dir/Tanxin/AC148.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/pygmalion/Documents/GitHub/FkAlgorithm/Tanxin/AC148.cpp > CMakeFiles/FkAlgorithm.dir/Tanxin/AC148.cpp.i
 
-CMakeFiles/FkAlgorithm.dir/Undefine/PAT1009.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FkAlgorithm.dir/Undefine/PAT1009.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/pygmalion/Documents/GitHub/FkAlgorithm/Undefine/PAT1009.cpp -o CMakeFiles/FkAlgorithm.dir/Undefine/PAT1009.cpp.s
+CMakeFiles/FkAlgorithm.dir/Tanxin/AC148.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FkAlgorithm.dir/Tanxin/AC148.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/pygmalion/Documents/GitHub/FkAlgorithm/Tanxin/AC148.cpp -o CMakeFiles/FkAlgorithm.dir/Tanxin/AC148.cpp.s
+
+CMakeFiles/FkAlgorithm.dir/Tanxin/AC913.cpp.o: CMakeFiles/FkAlgorithm.dir/flags.make
+CMakeFiles/FkAlgorithm.dir/Tanxin/AC913.cpp.o: ../Tanxin/AC913.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/pygmalion/Documents/GitHub/FkAlgorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/FkAlgorithm.dir/Tanxin/AC913.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FkAlgorithm.dir/Tanxin/AC913.cpp.o -c /Users/pygmalion/Documents/GitHub/FkAlgorithm/Tanxin/AC913.cpp
+
+CMakeFiles/FkAlgorithm.dir/Tanxin/AC913.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FkAlgorithm.dir/Tanxin/AC913.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/pygmalion/Documents/GitHub/FkAlgorithm/Tanxin/AC913.cpp > CMakeFiles/FkAlgorithm.dir/Tanxin/AC913.cpp.i
+
+CMakeFiles/FkAlgorithm.dir/Tanxin/AC913.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FkAlgorithm.dir/Tanxin/AC913.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/pygmalion/Documents/GitHub/FkAlgorithm/Tanxin/AC913.cpp -o CMakeFiles/FkAlgorithm.dir/Tanxin/AC913.cpp.s
 
 # Object files for target FkAlgorithm
 FkAlgorithm_OBJECTS = \
-"CMakeFiles/FkAlgorithm.dir/Undefine/PAT1007.cpp.o" \
-"CMakeFiles/FkAlgorithm.dir/Undefine/PAT1009.cpp.o"
+"CMakeFiles/FkAlgorithm.dir/Tanxin/AC907.cpp.o" \
+"CMakeFiles/FkAlgorithm.dir/Tanxin/AC148.cpp.o" \
+"CMakeFiles/FkAlgorithm.dir/Tanxin/AC913.cpp.o"
 
 # External object files for target FkAlgorithm
 FkAlgorithm_EXTERNAL_OBJECTS =
 
-FkAlgorithm: CMakeFiles/FkAlgorithm.dir/Undefine/PAT1007.cpp.o
-FkAlgorithm: CMakeFiles/FkAlgorithm.dir/Undefine/PAT1009.cpp.o
+FkAlgorithm: CMakeFiles/FkAlgorithm.dir/Tanxin/AC907.cpp.o
+FkAlgorithm: CMakeFiles/FkAlgorithm.dir/Tanxin/AC148.cpp.o
+FkAlgorithm: CMakeFiles/FkAlgorithm.dir/Tanxin/AC913.cpp.o
 FkAlgorithm: CMakeFiles/FkAlgorithm.dir/build.make
 FkAlgorithm: CMakeFiles/FkAlgorithm.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/pygmalion/Documents/GitHub/FkAlgorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable FkAlgorithm"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/pygmalion/Documents/GitHub/FkAlgorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable FkAlgorithm"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/FkAlgorithm.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

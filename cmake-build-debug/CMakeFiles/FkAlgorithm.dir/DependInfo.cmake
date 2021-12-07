@@ -8,8 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/pygmalion/Documents/GitHub/FkAlgorithm/Undefine/PAT1007.cpp" "/Users/pygmalion/Documents/GitHub/FkAlgorithm/cmake-build-debug/CMakeFiles/FkAlgorithm.dir/Undefine/PAT1007.cpp.o"
-  "/Users/pygmalion/Documents/GitHub/FkAlgorithm/Undefine/PAT1009.cpp" "/Users/pygmalion/Documents/GitHub/FkAlgorithm/cmake-build-debug/CMakeFiles/FkAlgorithm.dir/Undefine/PAT1009.cpp.o"
+  "/Users/pygmalion/Documents/GitHub/FkAlgorithm/Tanxin/AC148.cpp" "/Users/pygmalion/Documents/GitHub/FkAlgorithm/cmake-build-debug/CMakeFiles/FkAlgorithm.dir/Tanxin/AC148.cpp.o"
+  "/Users/pygmalion/Documents/GitHub/FkAlgorithm/Tanxin/AC907.cpp" "/Users/pygmalion/Documents/GitHub/FkAlgorithm/cmake-build-debug/CMakeFiles/FkAlgorithm.dir/Tanxin/AC907.cpp.o"
+  "/Users/pygmalion/Documents/GitHub/FkAlgorithm/Tanxin/AC913.cpp" "/Users/pygmalion/Documents/GitHub/FkAlgorithm/cmake-build-debug/CMakeFiles/FkAlgorithm.dir/Tanxin/AC913.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

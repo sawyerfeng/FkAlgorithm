@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/FkAlgorithm.dir/Undefine/PAT1007.cpp.o"
-  "CMakeFiles/FkAlgorithm.dir/Undefine/PAT1009.cpp.o"
+  "CMakeFiles/FkAlgorithm.dir/Tanxin/AC148.cpp.o"
+  "CMakeFiles/FkAlgorithm.dir/Tanxin/AC907.cpp.o"
+  "CMakeFiles/FkAlgorithm.dir/Tanxin/AC913.cpp.o"
   "FkAlgorithm"
   "FkAlgorithm.pdb"
 )

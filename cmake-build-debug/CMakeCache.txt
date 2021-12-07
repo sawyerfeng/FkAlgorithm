@@ -230,12 +230,6 @@ FkAlgorithm_SOURCE_DIR:STATIC=/Users/pygmalion/Documents/GitHub/FkAlgorithm
 //Path to a program.
 ProcessorCount_cmd_sysctl:FILEPATH=/usr/sbin/sysctl
 
-//Value Computed by CMake
-luogu_BINARY_DIR:STATIC=/Users/pygmalion/Documents/GitHub/FkAlgorithm/cmake-build-debug
-
-//Value Computed by CMake
-luogu_SOURCE_DIR:STATIC=/Users/pygmalion/Documents/GitHub/FkAlgorithm
-
 
 ########################
 # INTERNAL cache entries

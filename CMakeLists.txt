@@ -3,4 +3,4 @@ project(FkAlgorithm)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(FkAlgorithm Undefine/PAT1007.cpp Undefine/PAT1009.cpp)
+add_executable(FkAlgorithm  Tanxin/AC907.cpp Tanxin/AC148.cpp Tanxin/AC913.cpp)
