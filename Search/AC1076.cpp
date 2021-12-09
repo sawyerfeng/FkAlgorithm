@@ -35,7 +35,7 @@ int main(){
             cin>>g[i][j];
     bfs(n-1,n-1);
     PII it={0,0};
-    while(1){
+    while(true){
         cout<<it.first<<" "<<it.second<<endl;
         if(it.first==n-1&&it.second==n-1) break;
         else {
