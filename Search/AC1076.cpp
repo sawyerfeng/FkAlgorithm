@@ -25,6 +25,7 @@ void bfs(int sx,int sy){
             if(g[a][b]) continue;
             q[++tt]={a,b};
             mem[a][b]=t;
+
         }
     }
 }
