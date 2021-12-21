@@ -21,7 +21,7 @@ int cnt;
 char g[N][N];
 typedef pair<int,int> PII;
 bool st[N][N];
-PII q[N];//队列，手写
+PII q[N*N];//队列，手写
 void bfs(int sx,int sy){
     int hh=0,tt=0;
     q[hh]={sx,sy};
@@ -32,19 +32,16 @@ void bfs(int sx,int sy){
             for (int j = t.second- 1; j <= t.second + 1; j++) {
                 if (i < 0 || i >= n || j < 0 || j >= m) continue;
                 if (g[i][j] == '.' || st[i][j]) continue;
-                if (i == sx && j == sy) continue;
+                if (i == t.first && j == t.second) continue;
                 q[++tt]={i,j};
                 st[i][j]=true;
-
             }
     }
 }
 int main(){
     cin>>n>>m;
     for(int i=0;i<n;i++)
-        for(int j=0;j<m;j++){
-            cin>>g[i][j];
-        }
+        cin>>g[i];
     for(int i=0;i<n;i++)
         for(int j=0;j<m;j++){
             if(g[i][j]=='W'&&!st[i][j]){
