@@ -3,4 +3,4 @@ project(FkAlgorithm)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(FkAlgorithm  Search/AC167.cpp)
+add_executable(FkAlgorithm  Daily/AC2041.cpp)
