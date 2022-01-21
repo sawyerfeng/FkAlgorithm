@@ -47,7 +47,6 @@ int main(){
         int a,b,c;
         cin>>a>>b>>c;
         add(a,b,c);
-
     }
     cout<<dijkstra();
 }
