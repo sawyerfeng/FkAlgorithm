@@ -73,33 +73,67 @@ class MyLinkedList {
         int val;
         LinkedNode* next;
         LinkedNode(int val) : val(val), next(nullptr){};
-    }
+    };
+private:
+    int _size = 0;
+    LinkedNode * _dummyhead;
 public:
     MyLinkedList() {
-        size = 0;
-        
-
+        _size = 0;
+        _dummyhead = new LinkedNode(0);
     }
     
     int get(int index) {
-
-
+        if(index > (_size-1) || index < 0 ){
+            return -1;
+        }
+        LinkedNode* cur =_dummyhead->next;
+        while(index--){
+            cur=cur->next;
+        }
+        return cur->val;
     }
     
     void addAtHead(int val) {
-
+        LinkedNode* newNode = new LinkedNode(val);
+        newNode->next = _dummyhead->next;
+        _dummyhead->next = newNode;
+        _size++;
     }
     
     void addAtTail(int val) {
-
+        LinkedNode* newNode = new LinkedNode(val);
+        LinkedNode* cur =_dummyhead;
+        while(cur->next){
+            cur=cur->next;
+        }  
+        cur->next=newNode;
+        _size++;
     }
     
     void addAtIndex(int index, int val) {
-
+        if(index > _size) return;
+        LinkedNode* newNode = new LinkedNode(val);
+        LinkedNode* cur =_dummyhead;
+        while(index --){
+            cur = cur->next;
+        }
+        newNode->next = cur->next;
+        cur->next = newNode;
+        _size++;
     }
     
     void deleteAtIndex(int index) {
-
+        if(index > (_size - 1)|| index < 0) return;
+        LinkedNode* cur = _dummyhead; 
+        while(index -- ){
+            cur = cur->next;
+        }
+        LinkedNode* tmp = cur->next;
+        cur->next = cur->next->next;
+        delete tmp;
+        tmp=nullptr;
+        _size--;
     }
 };
 
